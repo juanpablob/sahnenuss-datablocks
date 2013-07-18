@@ -7,71 +7,71 @@
 /* Fonts */
 @font-face {
   font-family: 'league_gothiccondensed_italic';
-  src: url('../aux/leaguegothic-condenseditalic-webfont.eot');
-  src: url('../aux/leaguegothic-condenseditalic-webfont.eot?#iefix') format('embedded-opentype'), url('../aux/leaguegothic-condenseditalic-webfont.woff') format('woff'), url('../aux/leaguegothic-condenseditalic-webfont.ttf') format('truetype'), url('../aux/leaguegothic-condenseditalic-webfont.svg#league_gothiccondensed_italic') format('svg');
+  src: url('../fonts/leaguegothic-condenseditalic-webfont.eot');
+  src: url('../fonts/leaguegothic-condenseditalic-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/leaguegothic-condenseditalic-webfont.woff') format('woff'), url('../fonts/leaguegothic-condenseditalic-webfont.ttf') format('truetype'), url('../fonts/leaguegothic-condenseditalic-webfont.svg#league_gothiccondensed_italic') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'league_gothicCnRg';
-  src: url('../aux/leaguegothic-condensedregular-webfont.eot');
-  src: url('../aux/leaguegothic-condensedregular-webfont.eot?#iefix') format('embedded-opentype'), url('../aux/leaguegothic-condensedregular-webfont.woff') format('woff'), url('../aux/leaguegothic-condensedregular-webfont.ttf') format('truetype'), url('../aux/leaguegothic-condensedregular-webfont.svg#league_gothicCnRg') format('svg');
+  src: url('../fonts/leaguegothic-condensedregular-webfont.eot');
+  src: url('../fonts/leaguegothic-condensedregular-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/leaguegothic-condensedregular-webfont.woff') format('woff'), url('../fonts/leaguegothic-condensedregular-webfont.ttf') format('truetype'), url('../fonts/leaguegothic-condensedregular-webfont.svg#league_gothicCnRg') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'league_gothicitalic';
-  src: url('../aux/leaguegothic-italic-webfont.eot');
-  src: url('../aux/leaguegothic-italic-webfont.eot?#iefix') format('embedded-opentype'), url('../aux/leaguegothic-italic-webfont.woff') format('woff'), url('../aux/leaguegothic-italic-webfont.ttf') format('truetype'), url('../aux/leaguegothic-italic-webfont.svg#league_gothicitalic') format('svg');
+  src: url('../fonts/leaguegothic-italic-webfont.eot');
+  src: url('../fonts/leaguegothic-italic-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/leaguegothic-italic-webfont.woff') format('woff'), url('../fonts/leaguegothic-italic-webfont.ttf') format('truetype'), url('../fonts/leaguegothic-italic-webfont.svg#league_gothicitalic') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'league_gothicregular';
-  src: url('../aux/leaguegothic-regular-webfont.eot');
-  src: url('../aux/leaguegothic-regular-webfont.eot?#iefix') format('embedded-opentype'), url('../aux/leaguegothic-regular-webfont.woff') format('woff'), url('../aux/leaguegothic-regular-webfont.ttf') format('truetype'), url('../aux/leaguegothic-regular-webfont.svg#league_gothicregular') format('svg');
+  src: url('../fonts/leaguegothic-regular-webfont.eot');
+  src: url('../fonts/leaguegothic-regular-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/leaguegothic-regular-webfont.woff') format('woff'), url('../fonts/leaguegothic-regular-webfont.ttf') format('truetype'), url('../fonts/leaguegothic-regular-webfont.svg#league_gothicregular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'playfair_displayblack';
-  src: url('../aux/playfairdisplay-black-webfont.eot');
-  src: url('../aux/playfairdisplay-black-webfont.eot?#iefix') format('embedded-opentype'), url('../aux/playfairdisplay-black-webfont.woff') format('woff'), url('../aux/playfairdisplay-black-webfont.ttf') format('truetype'), url('../aux/playfairdisplay-black-webfont.svg#playfair_displayblack') format('svg');
+  src: url('../fonts/playfairdisplay-black-webfont.eot');
+  src: url('../fonts/playfairdisplay-black-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/playfairdisplay-black-webfont.woff') format('woff'), url('../fonts/playfairdisplay-black-webfont.ttf') format('truetype'), url('../fonts/playfairdisplay-black-webfont.svg#playfair_displayblack') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'playfair_displayblack_italic';
-  src: url('../aux/playfairdisplay-blackitalic-webfont.eot');
-  src: url('../aux/playfairdisplay-blackitalic-webfont.eot?#iefix') format('embedded-opentype'), url('../aux/playfairdisplay-blackitalic-webfont.woff') format('woff'), url('../aux/playfairdisplay-blackitalic-webfont.ttf') format('truetype'), url('../aux/playfairdisplay-blackitalic-webfont.svg#playfair_displayblack_italic') format('svg');
+  src: url('../fonts/playfairdisplay-blackitalic-webfont.eot');
+  src: url('../fonts/playfairdisplay-blackitalic-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/playfairdisplay-blackitalic-webfont.woff') format('woff'), url('../fonts/playfairdisplay-blackitalic-webfont.ttf') format('truetype'), url('../fonts/playfairdisplay-blackitalic-webfont.svg#playfair_displayblack_italic') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'playfair_displaybold';
-  src: url('../aux/playfairdisplay-bold-webfont.eot');
-  src: url('../aux/playfairdisplay-bold-webfont.eot?#iefix') format('embedded-opentype'), url('../aux/playfairdisplay-bold-webfont.woff') format('woff'), url('../aux/playfairdisplay-bold-webfont.ttf') format('truetype'), url('../aux/playfairdisplay-bold-webfont.svg#playfair_displaybold') format('svg');
+  src: url('../fonts/playfairdisplay-bold-webfont.eot');
+  src: url('../fonts/playfairdisplay-bold-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/playfairdisplay-bold-webfont.woff') format('woff'), url('../fonts/playfairdisplay-bold-webfont.ttf') format('truetype'), url('../fonts/playfairdisplay-bold-webfont.svg#playfair_displaybold') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'playfair_displaybold_italic';
-  src: url('../aux/playfairdisplay-bolditalic-webfont.eot');
-  src: url('../aux/playfairdisplay-bolditalic-webfont.eot?#iefix') format('embedded-opentype'), url('../aux/playfairdisplay-bolditalic-webfont.woff') format('woff'), url('../aux/playfairdisplay-bolditalic-webfont.ttf') format('truetype'), url('../aux/playfairdisplay-bolditalic-webfont.svg#playfair_displaybold_italic') format('svg');
+  src: url('../fonts/playfairdisplay-bolditalic-webfont.eot');
+  src: url('../fonts/playfairdisplay-bolditalic-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/playfairdisplay-bolditalic-webfont.woff') format('woff'), url('../fonts/playfairdisplay-bolditalic-webfont.ttf') format('truetype'), url('../fonts/playfairdisplay-bolditalic-webfont.svg#playfair_displaybold_italic') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'playfair_displayitalic';
-  src: url('../aux/playfairdisplay-italic-webfont.eot');
-  src: url('../aux/playfairdisplay-italic-webfont.eot?#iefix') format('embedded-opentype'), url('../aux/playfairdisplay-italic-webfont.woff') format('woff'), url('../aux/playfairdisplay-italic-webfont.ttf') format('truetype'), url('../aux/playfairdisplay-italic-webfont.svg#playfair_displayitalic') format('svg');
+  src: url('../fonts/playfairdisplay-italic-webfont.eot');
+  src: url('../fonts/playfairdisplay-italic-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/playfairdisplay-italic-webfont.woff') format('woff'), url('../fonts/playfairdisplay-italic-webfont.ttf') format('truetype'), url('../fonts/playfairdisplay-italic-webfont.svg#playfair_displayitalic') format('svg');
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
   font-family: 'playfair_displayregular';
-  src: url('../aux/playfairdisplay-regular-webfont.eot');
-  src: url('../aux/playfairdisplay-regular-webfont.eot?#iefix') format('embedded-opentype'), url('../aux/playfairdisplay-regular-webfont.woff') format('woff'), url('../aux/playfairdisplay-regular-webfont.ttf') format('truetype'), url('../aux/playfairdisplay-regular-webfont.svg#playfair_displayregular') format('svg');
+  src: url('../fonts/playfairdisplay-regular-webfont.eot');
+  src: url('../fonts/playfairdisplay-regular-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/playfairdisplay-regular-webfont.woff') format('woff'), url('../fonts/playfairdisplay-regular-webfont.ttf') format('truetype'), url('../fonts/playfairdisplay-regular-webfont.svg#playfair_displayregular') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -151,7 +151,7 @@ span {
   width: 103px;
 }
 #datablock_a_2 .box {
-  background-image: url('../img/a2.png');
+  background-image: url('../img/datablock/a2.png');
   background-repeat: no-repeat;
   background-position: center center;
   padding: 39px 5px 15px;
@@ -284,20 +284,14 @@ span {
 }
 #datablock_a_5 .big,
 #datablock_b_5 .big {
-  font-size: 34px;
+  font-size: 35px;
   color: #FCDC70;
   text-transform: uppercase;
 }
 #datablock_a_5 .medium,
 #datablock_b_5 .medium {
   color: white;
-  font-size: 25px;
-}
-#datablock_a_5 .small,
-#datablock_b_5 .small {
-  color: #FCDC70;
   font-size: 20px;
-  margin-top: 10px;
 }
 #datablock_a_5 img,
 #datablock_b_5 img {
@@ -412,7 +406,7 @@ span {
   margin-top: 15px;
 }
 #datablock_a_9 {
-  background-image: url('../img/a9.png');
+  background-image: url('../img/datablock/a9.png');
   background-repeat: no-repeat;
   background-position: 10px 22px;
 }
@@ -603,7 +597,7 @@ span {
   font-size: 23px;
 }
 #datablock_a_15 {
-  background-image: url('../img/a15.png');
+  background-image: url('../img/datablock/a15.png');
   background-repeat: no-repeat;
   background-position: 20px center;
 }
@@ -773,7 +767,7 @@ span {
   color: #D25647;
 }
 #datablock_a_20 {
-  background-image: url('../img/a20.png');
+  background-image: url('../img/datablock/a20.png');
   background-repeat: no-repeat;
   background-position: 10px 22px;
 }
@@ -804,7 +798,7 @@ span {
 }
 #datablock_a_21,
 #datablock_b_21 {
-  background-image: url('../img/a21.png');
+  background-image: url('../img/datablock/a21.png');
   background-repeat: no-repeat;
   background-position: 15px 48px;
 }
@@ -956,7 +950,7 @@ span {
 }
 #datablock_a_25 .border {
   display: block;
-  background-image: url('../img/a25a.png');
+  background-image: url('../img/datablock/a25a.png');
   background-repeat: no-repeat;
   background-position: center top;
   padding: 10px;
@@ -2215,7 +2209,7 @@ span {
   color: #FCDC70;
 }
 #datablock_b_1 .circle {
-  background-image: url('../img/b1.png');
+  background-image: url('../img/datablock/b1.png');
   background-repeat: no-repeat;
   background-position: center center;
   width: 45px;
@@ -2659,7 +2653,7 @@ span {
   margin: 0 auto;
 }
 #datablock_b_21 {
-  background-image: url('../img/b21.png');
+  background-image: url('../img/datablock/b21.png');
 }
 #datablock_b_22 .medium {
   font-size: 29px;
@@ -2807,7 +2801,7 @@ span {
   width: 85px;
 }
 #datablock_b_31 .box {
-  background-image: url('../img/b31.png');
+  background-image: url('../img/datablock/b31.png');
   background-repeat: no-repeat;
   background-position: center center;
   padding: 39px 5px 15px;
