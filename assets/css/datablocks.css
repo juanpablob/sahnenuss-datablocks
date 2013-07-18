@@ -1348,32 +1348,38 @@ span {
 #datablock_b_36 .data {
   color: #363636;
 }
-#datablock_a_37 .box {
+#datablock_a_37 .box,
+#datablock_b_37 .box {
   display: inline-block;
   margin-left: 30px;
   vertical-align: 28px;
 }
-#datablock_a_37 p {
+#datablock_a_37 p,
+#datablock_b_37 p {
   display: block;
   font-family: 'league_gothicregular';
   margin: 0;
   vertical-align: 0px;
   text-align: center;
 }
-#datablock_a_37 .data {
+#datablock_a_37 .data,
+#datablock_b_37 .data {
   color: white;
 }
-#datablock_a_37 .medium {
+#datablock_a_37 .medium,
+#datablock_b_37 .medium {
   color: #FCDC70;
   font-size: 36px;
   text-transform: uppercase;
 }
-#datablock_a_37 .small {
+#datablock_a_37 .small,
+#datablock_b_37 .small {
   color: white;
   font-size: 21px;
   margin-top: 10px;
 }
-#datablock_a_37 img {
+#datablock_a_37 img,
+#datablock_b_37 img {
   display: inline-block;
   margin-top: 5px;
   margin-left: 20px;
@@ -2720,28 +2726,27 @@ span {
   margin: 0;
   vertical-align: 0px;
   text-align: center;
+  color: white;
 }
 #datablock_b_31 .medium {
-  font-size: 22px;
+  font-size: 24px;
   color: white;
 }
 #datablock_b_31 .big {
-  font-size: 21px;
-  color: white;
+  font-size: 22px;
   text-transform: uppercase;
 }
 #datablock_b_31 .small {
-  font-size: 21px;
+  font-size: 20px;
   color: white;
-  text-transform: uppercase;
 }
 #datablock_b_31 .black {
-  font-size: 21px;
+  font-size: 15px;
   color: #363636;
-  text-transform: uppercase;
+  margin-top: 10px;
 }
 #datablock_b_31 .data {
-  color: #FFD63F;
+  color: #363636;
 }
 #datablock_b_32 .box {
   display: inline-block;
@@ -2826,6 +2831,36 @@ span {
 }
 #datablock_b_36 .medium {
   font-size: 21px;
+}
+#datablock_b_37 .box {
+  display: inline-block;
+  margin-left: 30px;
+  vertical-align: 28px;
+}
+#datablock_b_37 p {
+  display: block;
+  font-family: 'league_gothicregular';
+  margin: 0;
+  vertical-align: 0px;
+  text-align: center;
+}
+#datablock_b_37 .data {
+  color: white;
+}
+#datablock_b_37 .medium {
+  color: #FCDC70;
+  font-size: 36px;
+  text-transform: uppercase;
+}
+#datablock_b_37 .small {
+  color: white;
+  font-size: 21px;
+  margin-top: 10px;
+}
+#datablock_b_37 img {
+  display: inline-block;
+  margin-top: 5px;
+  margin-left: 20px;
 }
 #datablock_b_39 .medium {
   font-size: 26px;
