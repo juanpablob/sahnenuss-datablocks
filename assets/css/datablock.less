@@ -96,6 +96,7 @@
 
 @play-regular: 'playfair_displayregular';
 @league-regular: 'league_gothicregular';
+@play-italic: 'playfair_displaybold_italic';
 
 
 
@@ -106,9 +107,9 @@
 /* Size */
 
 .one-slot {
-    width: 270px;
+    width: 250px;
     height: 175px;
-    padding-top: 10px;
+    padding: 10px 10px 0;
 
     .social {
         right: 10px;
@@ -116,8 +117,9 @@
 }
 
 .two-slot-vertical {
-    width: 270px;
-    height: 370px;
+    width: 250px;
+    height: 360px;
+    padding: 10px 10px 0;
 
     .social {
         left: 110px;
@@ -126,9 +128,9 @@
 
 
 .two-slot-horizontal {
-    width: 540px;
+    width: 520px;
     height: 175px;
-    padding-top: 10px;
+    padding: 10px 10px 0;
 
     .social {
         right: 10px;
@@ -174,6 +176,19 @@ p, span {
     line-height: 100%;
 }
 
+
+.user {
+    img {
+        display: inline-block;
+    }
+    span {
+        display: inline-block;
+        width: 80%;
+        font-size: 11px;
+        font-family: verdana;
+        vertical-align: 7px;
+    }
+}
 
 /* Social buttons */
 
@@ -2445,7 +2460,7 @@ p, span {
     }
 }
 
-#datablock_a_55  {
+#datablock_a_55, #datablock_city_55  {
     img  {
         display: block;
         margin: 0 auto;
@@ -5445,6 +5460,21 @@ p, span {
     }
 }
 
+#datablock_city_55  {
+    img  {
+        margin-top: 5px;
+    }
+
+    .box {
+        margin-top: 10px;
+    }
+
+    .big {
+        font-size: 27px;
+    }
+}
+
+
 #datablock_city_56 {
     .box {
         display: inline-block;
@@ -5584,3 +5614,179 @@ p, span {
     }
 }
 
+
+/** Facts **/
+
+#datablock_facts_3 {
+    .box {
+        margin-top: 10px;
+        background-image: url('../img/datablock/universal.png');
+        background-repeat: no-repeat;
+        background-position: center bottom;
+        padding-bottom: 20px;
+        margin-top: 35px;
+    }
+
+    p {
+        display: block;
+        font-family: @play-italic;
+        margin: 0;
+        text-align: center;
+        color: white;  
+    }
+    
+    .medium {
+        font-size: 20px;
+    }
+    
+    .small {
+        font-size: 17px;
+        color: #0184A2;
+        display: block;
+        line-height: 150%;
+    }
+}
+
+#datablock_facts_4 {
+    .box {
+        margin-top: 10px;
+        background-image: url('../img/datablock/universal.png');
+        background-repeat: no-repeat;
+        background-position: center bottom;
+        padding-bottom: 20px;
+        margin-top: 35px;
+    }
+
+    p {
+        display: block;
+        font-family: @play-italic;
+        margin: 0;
+        text-align: center;
+        color: white;
+        line-height: 145%;
+    }
+    
+    .medium {
+        font-size: 16px;
+    }
+    
+    .data {
+        color: #0184A2;
+        font-size: 31px;
+    }
+}
+
+#datablock_facts_5 {
+    .box {
+        margin-top: 10px;
+        background-image: url('../img/datablock/universal.png');
+        background-repeat: no-repeat;
+        background-position: center bottom;
+        padding-bottom: 20px;
+        margin-top: 35px;
+    }
+
+    p {
+        display: block;
+        font-family: @play-italic;
+        margin: 0;
+        text-align: center;
+        color: white;
+        line-height: 145%;
+    }
+    
+    .medium {
+        font-size: 17px;
+    }
+
+    .data {
+        font-size: 32px;
+        color: #0184A2; 
+    }
+    
+    .big {
+        font-size: 23px;
+    }
+}
+
+
+
+#datablock_facts_11 {
+    .box {
+        margin-top: 10px;
+        background-image: url('../img/datablock/universal.png');
+        background-repeat: no-repeat;
+        background-position: center bottom;
+        padding-bottom: 20px;
+        margin-top: 35px;
+    }
+
+    p {
+        display: block;
+        font-family: @play-italic;
+        margin: 0;
+        text-align: center;
+        color: #0184A2;  
+    }
+    
+    .medium {
+        font-size: 15px;
+    }
+    
+    .small {
+        font-size: 14px;
+        color: white;
+        display: block;
+        line-height: 150%;
+    }
+}
+
+
+/*** Reactions ***/
+
+
+
+#datablock_reactions_1 {
+    .box {
+        background-image: url('../img/datablock/r1.png');
+        background-repeat: no-repeat;
+        background-position: center bottom;
+        width: 244px;
+        height: 87px;
+        padding-top: 20px;
+    }
+
+    p {
+        display: block;
+        font-family: @league-regular;
+        margin: 0;
+        text-align: center;
+        color: white;  
+        font-size: 18px;
+    }
+}
+
+#datablock_reactions_3 {
+    .box {
+        background-image: url('../img/datablock/r3.png');
+        background-repeat: no-repeat;
+        background-position: center center;
+        width: 190px;
+        height: 62px;
+        padding-top: 70px;
+        margin: 0 auto;
+    }
+
+    p {
+        display: block;
+        font-family: @league-regular;
+        margin: 0;
+        text-align: center;
+        color: white;  
+        font-size: 23px;
+    }
+    
+    .small {
+        font-size: 18px;
+    }
+}
