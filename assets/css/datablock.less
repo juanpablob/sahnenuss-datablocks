@@ -3,43 +3,6 @@
 /* Fonts */
 
 @font-face {
-    font-family: 'league_gothiccondensed_italic';
-    src: url('../fonts/leaguegothic-condenseditalic-webfont.eot');
-    src: url('../fonts/leaguegothic-condenseditalic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/leaguegothic-condenseditalic-webfont.woff') format('woff'),
-         url('../fonts/leaguegothic-condenseditalic-webfont.ttf') format('truetype'),
-         url('../fonts/leaguegothic-condenseditalic-webfont.svg#league_gothiccondensed_italic') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
-@font-face {
-    font-family: 'league_gothicCnRg';
-    src: url('../fonts/leaguegothic-condensedregular-webfont.eot');
-    src: url('../fonts/leaguegothic-condensedregular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/leaguegothic-condensedregular-webfont.woff') format('woff'),
-         url('../fonts/leaguegothic-condensedregular-webfont.ttf') format('truetype'),
-         url('../fonts/leaguegothic-condensedregular-webfont.svg#league_gothicCnRg') format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
-
-
-@font-face {
-    font-family: 'league_gothicitalic';
-    src: url('../fonts/leaguegothic-italic-webfont.eot');
-    src: url('../fonts/leaguegothic-italic-webfont.eot?#iefix') format('embedded-opentype'),
-         url('../fonts/leaguegothic-italic-webfont.woff') format('woff'),
-         url('../fonts/leaguegothic-italic-webfont.ttf') format('truetype'),
-         url('../fonts/leaguegothic-italic-webfont.svg#league_gothicitalic') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
-
-@font-face {
     font-family: 'league_gothicregular';
     src: url('../fonts/leaguegothic-regular-webfont.eot');
     src: url('../fonts/leaguegothic-regular-webfont.eot?#iefix') format('embedded-opentype'),
@@ -143,21 +106,33 @@
 /* Size */
 
 .one-slot {
-    width: 250px;
-    height: 165px;
-    padding: 10px;
+    width: 270px;
+    height: 175px;
+    padding-top: 10px;
+
+    .social {
+        right: 10px;
+    }
 }
 
 .two-slot-vertical {
     width: 270px;
     height: 370px;
+
+    .social {
+        left: 110px;
+    }
 }
 
 
 .two-slot-horizontal {
-    width: 520px;
-    height: 165px;
-    padding: 10px;
+    width: 540px;
+    height: 175px;
+    padding-top: 10px;
+
+    .social {
+        right: 10px;
+    }
 }
 
 /* Color */
@@ -188,6 +163,7 @@
 
 .datablock {
     display: inline-block;
+    position: relative;
 }
 
 .border-top {
@@ -198,6 +174,45 @@ p, span {
     line-height: 100%;
 }
 
+
+/* Social buttons */
+
+.social {
+    display: block;
+    height: 21px;
+    position: absolute;
+    bottom: 10px;
+}
+
+.facebook {
+    display: inline-block;
+    width: 21px;
+    height: 21px;
+    background-image: url('../img/datablock/fb.png');
+    background-repeat: no-repeat;
+    opacity: 0.8;
+    filter: alpha(opacity=80);
+
+    &:hover {
+        opacity: 1;
+        filter: alpha(opacity=100);
+    }
+}
+
+.twitter {
+    display: inline-block;
+    width: 21px;
+    height: 21px;
+    background-image: url('../img/datablock/tw.png');
+    background-repeat: no-repeat;
+    opacity: 0.8;
+    filter: alpha(opacity=80);
+
+    &:hover {
+        opacity: 1;
+        filter: alpha(opacity=100);
+    }
+}
 
 /* Blocks */
 
@@ -247,9 +262,9 @@ p, span {
         background-image: url('../img/datablock/a2.png');
         background-repeat: no-repeat;
         background-position: center center;
-        padding: 39px 5px 15px;
+        padding: 20px 5px 15px;
         width: 230px;
-        height: 103px;
+        height: 100px;
         margin: 0 auto;
     }
 
@@ -4436,9 +4451,7 @@ p, span {
 #datablock_city_2 {
     .box {
         background-image: url('../img/datablock/city2.png');
-        padding: 39px 5px 15px;
         width: 230px;
-        height: 103px;
         margin: 0 auto;
     }    
     .medium {
