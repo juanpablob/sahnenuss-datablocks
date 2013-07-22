@@ -379,11 +379,14 @@ span {
   margin-top: 5px;
   margin-left: 20px;
 }
+#datablock_a_6,
+#datablock_city_6 {
+  padding-top: 0;
+}
 #datablock_a_6 img,
 #datablock_city_6 img {
   display: block;
   margin: 0 auto;
-  width: 270px;
 }
 #datablock_a_6 .box,
 #datablock_city_6 .box {
@@ -449,7 +452,7 @@ span {
 #datablock_city_8 img {
   display: block;
   margin: 0 auto;
-  margin-top: 20px;
+  margin-top: 0px;
 }
 #datablock_a_8 .box,
 #datablock_b_8 .box,
@@ -2835,6 +2838,9 @@ span {
 }
 #datablock_b_5 .black {
   color: #363636;
+}
+#datablock_b_6 {
+  padding-top: 0;
 }
 #datablock_b_6 .box {
   text-align: center;
