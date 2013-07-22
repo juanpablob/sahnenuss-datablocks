@@ -1263,6 +1263,10 @@ span {
 #datablock_city_26 .data {
   color: #B01328;
 }
+#datablock_a_27,
+#datablock_city_27 {
+  padding-top: 0;
+}
 #datablock_a_27 img,
 #datablock_city_27 img {
   display: block;
@@ -3001,6 +3005,9 @@ span {
   margin-top: 25px;
   margin-left: 20px;
 }
+#datablock_b_13 {
+  padding-top: 0;
+}
 #datablock_b_13 img {
   display: block;
   margin: 0 auto;
@@ -3108,6 +3115,9 @@ span {
 }
 #datablock_b_17 .data {
   color: #363636;
+}
+#datablock_b_18 {
+  padding-top: 0;
 }
 #datablock_b_18 img {
   margin-top: 0;
@@ -3255,6 +3265,9 @@ span {
 }
 #datablock_b_26 .data {
   color: #343434;
+}
+#datablock_b_27 {
+  padding-top: 0;
 }
 #datablock_b_27 img {
   display: block;
