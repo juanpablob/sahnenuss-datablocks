@@ -539,7 +539,7 @@ span {
 #datablock_a_10 .box,
 #datablock_b_10 .box,
 #datablock_city_10 .box {
-  padding-top: 15px;
+  padding-top: 8px;
   width: 90%;
   margin: 0 auto;
   margin-top: 5px;
@@ -576,7 +576,7 @@ span {
 #datablock_city_11 img {
   display: block;
   margin: 0 auto;
-  margin-top: 10px;
+  margin-top: 5px;
 }
 #datablock_a_11 .box,
 #datablock_b_11 .box,
@@ -693,6 +693,7 @@ span {
 #datablock_city_14 .box {
   text-align: center;
   margin: 0 auto;
+  height: 66px;
 }
 #datablock_a_14 .box .big,
 #datablock_b_14 .box .big,
@@ -868,7 +869,6 @@ span {
 #datablock_city_18 img {
   display: block;
   margin: 0 auto;
-  margin-top: 15px;
 }
 #datablock_a_18 .box,
 #datablock_b_18 .box,
@@ -1403,6 +1403,7 @@ span {
 #datablock_city_40 .box {
   text-align: center;
   margin: 0 auto;
+  height: 60px;
 }
 #datablock_a_30 .box .big,
 #datablock_city_30 .box .big,
@@ -1532,7 +1533,7 @@ span {
 #datablock_city_33 img {
   display: block;
   margin: 0 auto;
-  margin-top: 10px;
+  margin-top: 5px;
 }
 #datablock_a_33 .box,
 #datablock_b_33 .box,
@@ -1570,8 +1571,7 @@ span {
 #datablock_b_34 .border,
 #datablock_city_34 .border {
   border: 2px dashed white;
-  padding: 15px;
-  margin-top: 3px;
+  padding: 10px;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   border-radius: 5px;
@@ -1624,8 +1624,8 @@ span {
 }
 #datablock_a_35,
 #datablock_city_35 {
-  padding-top: 20px;
-  height: 350px;
+  padding-top: 10px;
+  height: 360px;
 }
 #datablock_a_35 img,
 #datablock_city_35 img {
@@ -1854,7 +1854,7 @@ span {
   color: #FCDC70;
 }
 #datablock_a_40 .box {
-  padding-top: 15px;
+  padding-top: 10px;
   width: 90%;
   margin: 0 auto;
 }
@@ -1972,8 +1972,8 @@ span {
 }
 #datablock_a_43,
 #datablock_city_43 {
-  padding-top: 20px;
-  height: 350px;
+  padding-top: 10px;
+  height: 360px;
 }
 #datablock_a_43 img,
 #datablock_city_43 img {
@@ -2081,7 +2081,7 @@ span {
 #datablock_b_45 .border,
 #datablock_city_45 .border {
   border: 2px dashed #D64629;
-  padding: 20px;
+  padding: 15px;
   margin-top: 3px;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
@@ -2439,8 +2439,7 @@ span {
 #datablock_city_54 img {
   display: block;
   margin: 0 auto;
-  width: 184px;
-  margin-top: 25px;
+  margin-top: 15px;
 }
 #datablock_a_54 .box,
 #datablock_city_54 .box {
@@ -3344,7 +3343,7 @@ span {
   background-image: url('../img/datablock/b31.png');
   background-repeat: no-repeat;
   background-position: center center;
-  padding: 39px 5px 15px;
+  padding: 32px 5px 15px;
   width: 230px;
   height: 103px;
   margin: 0 auto;
@@ -3415,8 +3414,6 @@ span {
 }
 #datablock_b_34 .border {
   border: 2px dashed white;
-  padding: 15px;
-  margin-top: 3px;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
   border-radius: 5px;
@@ -3448,8 +3445,8 @@ span {
   margin: 0;
 }
 #datablock_b_35 {
-  padding-top: 20px;
-  height: 350px;
+  padding-top: 5px;
+  height: 365px;
 }
 #datablock_b_35 img {
   display: block;
@@ -3537,7 +3534,7 @@ span {
   margin-top: 10px;
 }
 #datablock_b_40 .box {
-  padding-top: 15px;
+  padding-top: 10px;
   width: 90%;
   margin: 0 auto;
 }
@@ -3910,7 +3907,7 @@ span {
   display: block;
   margin: 0 auto;
   width: 112px;
-  margin-top: 25px;
+  margin-top: 5px;
 }
 #datablock_b_54 .box {
   padding-top: 15px;
@@ -4816,7 +4813,7 @@ span {
   background-position: 78px 26px;
 }
 #datablock_city_57 .box {
-  margin-top: 90px;
+  margin-top: 85px;
   margin-left: 20px;
 }
 #datablock_city_57 p {
