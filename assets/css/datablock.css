@@ -4468,6 +4468,7 @@ span {
 #datablock_city_30 .box {
   text-align: center;
   margin: 0 auto;
+  height: 70px;
 }
 #datablock_city_30 .box .small {
   font-size: 19px;
